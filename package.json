@@ -1,4 +1,5 @@
 
+
 {
   
     "type": "module",
@@ -8,3 +9,25 @@
   }
 }
 
+
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "description": "1st project 'Игры разума'",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XyypeX/hexlet-js.git"
+  },
+  "author": "xyypex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XyypeX/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/XyypeX/hexlet-js#readme"
+}
+>>>>>>> origin/main
