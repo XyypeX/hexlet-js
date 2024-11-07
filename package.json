@@ -1,21 +1,9 @@
-
-
 {
-  
-    "type": "module",
-  
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
-}
-
-
-{
+  "type": "module",
   "name": "hexlet-hello-world",
   "version": "1.0.0",
   "description": "1st project 'Игры разума'",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,6 +16,11 @@
   "bugs": {
     "url": "https://github.com/XyypeX/hexlet-js/issues"
   },
-  "homepage": "https://github.com/XyypeX/hexlet-js#readme"
+  "homepage": "https://github.com/XyypeX/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
->>>>>>> origin/main
